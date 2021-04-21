@@ -1,0 +1,16 @@
+// Primary
+$gradient: hsl(6, 100%, 80%);
+$gradient2: hsl(335, 100%, 65%);
+
+// Neutral
+$paleblue: hsl(243, 100%, 93%);
+$grayishblue: hsl(229, 7%, 55%);
+$darkblue: hsl(228, 56%, 26%);
+$verydarkblue: hsl(229, 57%, 11%);
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap");
